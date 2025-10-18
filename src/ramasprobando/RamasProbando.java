@@ -19,6 +19,9 @@ public class RamasProbando {
      String quefuncione="asdsad";
             
     String asereje ="asdasd";
+    String asereje2 ="asdasd";
+    String asereje3 ="asdasd";
+    String asereje4 ="asdasd";
         
         
         
