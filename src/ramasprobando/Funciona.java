@@ -13,5 +13,6 @@ public class Funciona {
     
     
     private String quefuncione;
+    private String asereje ="asdasd";
     
 }
