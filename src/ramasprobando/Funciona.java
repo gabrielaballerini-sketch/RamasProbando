@@ -58,7 +58,7 @@ public class Funciona {
     public String toString() {
         return "Funciona{" + "quefuncione=" + quefuncione + ", asereje=" + asereje + ", numero=" + numero + '}';
     }
-    
+    public void cambioreciente(){}
     
             
     
