@@ -22,6 +22,9 @@ public class RamasProbando {
     String asereje2 ="asdasd";
     String asereje3 ="asdasd";
     String asereje4 ="asdasd";
+    String prueba6="hola";
+    String prueba7="hola";
+     String prueba8="hola";
         
         
         
