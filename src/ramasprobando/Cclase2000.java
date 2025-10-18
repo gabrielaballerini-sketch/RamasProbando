@@ -37,6 +37,9 @@ public class Cclase2000 {
     public String toString() {
         return "Cclase2000{" + "algo=" + algo + ", num=" + num + '}';
     }
- 
+  public void mostrarDatos(){
+  
+      System.out.println("todos los datos en todas partes");
+  }
  
 }
