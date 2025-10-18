@@ -11,7 +11,15 @@ package ramasprobando;
  */
 public class Funciona {
     
-    
+    private int numero2;
+
+    public int getNumero2() {
+        return numero2;
+    }
+
+    public void setNumero2(int numero2) {
+        this.numero2 = numero2;
+    }
     private String quefuncione;
     private String asereje ;
     private int numero ;
