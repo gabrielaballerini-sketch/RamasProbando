@@ -11,4 +11,6 @@ package ramasprobando;
  */
 public class Cclase2000 {
     
+ private String algo;
+    
 }
