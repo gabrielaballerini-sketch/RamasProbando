@@ -12,6 +12,21 @@ package ramasprobando;
 public class Prubanding {
     private String vaBien;
     private int intentos= 1000;
+    private boolean estaFuncionando;
+
+    public Prubanding() {
+    }
+
+    public boolean isEstaFuncionando() {
+        return estaFuncionando;
+    }
+
+    public void setEstaFuncionando(boolean estaFuncionando) {
+        this.estaFuncionando = estaFuncionando;
+    }
+    
+    
+    
 
     public Prubanding(String vaBien) {
         this.vaBien = vaBien;
@@ -35,8 +50,10 @@ public class Prubanding {
 
     @Override
     public String toString() {
-        return "Prubanding{" + "vaBien=" + vaBien + ", intentos=" + intentos + '}';
+        return "Prubanding{" + "vaBien=" + vaBien + ", intentos=" + intentos + ", estaFuncionando=" + estaFuncionando + '}';
     }
+
+    
     
     
     
